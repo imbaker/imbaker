@@ -1,4 +1,4 @@
-<link href="https://mastodonapp.uk/@imbaker" rel="me />
+<link href="https://mastodonapp.uk/@imbaker" rel="me" />
 ### Hi there 👋
 
 - 📫 I'm on <a rel="me" href="https://mastodonapp.uk/@imbaker">Mastodon</a>
